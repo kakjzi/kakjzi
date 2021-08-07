@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kakjzi/kakjzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkakjzi%2Fkakjzi.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<div><h4>Interested 💬</div>
+
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=White"> <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=White"> 

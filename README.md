@@ -30,6 +30,5 @@ Here are some ideas to get you started:
  <h3 align="center"><b>⚡ Interested ⚡</b></h3>
  </br>
  <p align="center">
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a></p>

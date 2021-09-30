@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkakjzi%2Fkakjzi.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<!-- <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> -->
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=White"></a> &nbsp
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 </a> &nbsp </p>
  </br>
- <h3 align="center"><b>⚡ Interested ⚡</b></h3>
+<!-- <h3 align="center"><b>⚡ Interested ⚡</b></h3>-->
  </br>
  <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  &nbsp

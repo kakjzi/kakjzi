@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-
+<p align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldn1728)](https://solved.ac/wldn1728/)
+</p>

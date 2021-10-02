@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a></p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldn1728)](https://solved.ac/wldn1728/)

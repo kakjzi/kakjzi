@@ -5,7 +5,7 @@
  
 ### Who Am I
 
-- 🌱 I’m currently learning `Vue`, `Spring-Boot`, `Algorithm`
+- 🌱 I’m currently learning `BackEnd`, `Spring-Boot`, `Algorithm`
 - 🥇 I majored in SW
 
 <br>

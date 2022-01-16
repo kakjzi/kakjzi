@@ -6,7 +6,7 @@
  
 ### Who Am I
 
-- 🌱 I’m currently learning `AWS`, `Spring-Boot`, `Algorithm`,`Java`
+- 🌱 I’m currently learning `AWS`, `Spring-Boot`, `Algorithm`, `Java`
 - 🥇 I majored in SW
 
 <br>

@@ -4,8 +4,9 @@
 
  
  
-### Who Am I
-Hi, there 🙌
+
+## Hi, there 🙌
+
 - 🌱 I’m currently learning `AWS`, `Spring-Boot`, `Algorithm`, `Java`
 - 🥇 I majored in SW
 

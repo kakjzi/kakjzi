@@ -11,7 +11,7 @@
 
 <br>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=kakjzi" height="165">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=kakjzi" height="165">
 
 
 

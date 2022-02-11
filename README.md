@@ -15,4 +15,4 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldn1728)](https://solved.ac/wldn1728/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldn1728)](https://solved.ac/wldn1728/)-->

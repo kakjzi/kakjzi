@@ -7,7 +7,7 @@
 
 ### Hi, there 🙌
 
-- 🌱 I’m currently learning `AWS`, `k8s`, `Docker`, `Algorithm`, `Java`
+- 🌱 I’m currently learning `AWS`, `k8s`, `Docker`, `Java`
 
 <br>
 

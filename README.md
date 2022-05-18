@@ -11,8 +11,7 @@
 
 <br>
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=kakjzi" height="165">
-
+![Jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakjzi&show_icons=true)
 
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldn1728)](https://solved.ac/wldn1728/)-->

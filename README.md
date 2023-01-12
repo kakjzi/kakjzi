@@ -1,6 +1,7 @@
 
 ### Hi, there 🙌
 
+- currently, I work for a FinOps company
 - 🌱 `AWS`, `k8s`, `Docker`, `Java` ,`JavaScript`
 
 <br>

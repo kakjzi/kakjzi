@@ -10,9 +10,11 @@
 <div align="center">
 
 #### Certificate :mortar_board:</br></br>
- 
-<img src="https://user-images.githubusercontent.com/82758364/205468774-9867e969-4009-4e96-8c25-0723dc70b261.png" width="110" height="110"/>
-<img src="https://user-images.githubusercontent.com/82758364/232934997-9ae6ca5c-73af-4430-984c-2be47131952e.png" width="110" height="110"/>
+
+<img src="https://github.com/user-attachments/assets/259488cf-7473-4417-b79c-08b3dbc29e74" width="120" height="120"/>
+<img src="https://github.com/user-attachments/assets/81196bf3-e491-4661-9ede-4a52d40da059" width="120" height="120"/>
+<img src="https://github.com/user-attachments/assets/1c32fc88-7ce3-42d7-80df-f598773dc4b5" width="120" height="120"/>
+
 
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldn1728)](https://solved.ac/wldn1728/)-->
